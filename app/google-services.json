@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1057052131683",
+    "firebase_url": "https://facebook-login-1e367.firebaseio.com",
+    "project_id": "facebook-login-1e367",
+    "storage_bucket": "facebook-login-1e367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057052131683:android:5da056fe1bb8ca17",
+        "android_client_info": {
+          "package_name": "com.example.essam.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057052131683-iqjh0oq520jo0l918pedamb32dp6lqki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.essam.facebooklogin",
+            "certificate_hash": "c0e8cf87e40a4f7027470f23dac277d9bcd96230"
+          }
+        },
+        {
+          "client_id": "1057052131683-tpcv18j0841nk1oc1t4kg02a9oup4pnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfilIRcAkW-OsjXlzatbwsmVhUvJhosQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057052131683-tpcv18j0841nk1oc1t4kg02a9oup4pnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057052131683:android:6ffdb340583b5c2f",
+        "android_client_info": {
+          "package_name": "com.example.essam.googleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057052131683-v7mhr0djot6qkjdc349r76lris8balf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.essam.googleloginapp",
+            "certificate_hash": "c0e8cf87e40a4f7027470f23dac277d9bcd96230"
+          }
+        },
+        {
+          "client_id": "1057052131683-tpcv18j0841nk1oc1t4kg02a9oup4pnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfilIRcAkW-OsjXlzatbwsmVhUvJhosQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057052131683-tpcv18j0841nk1oc1t4kg02a9oup4pnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
